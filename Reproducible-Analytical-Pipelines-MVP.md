@@ -45,13 +45,13 @@ When analysts and reserachers work in the open they increase transparency about 
 ## The RAP Minimum Viable Product
 
 In order to achieve these benefits, at a minimum a RAP must:
-- Augment extant technical and quality assurance processes with **peer review** to ensure that the process is reproducible and that the below requirements have been met.
+- Augment extant technical and quality assurance processes with [**peer review**](https://best-practice-and-impact.github.io/qa-of-code-guidance/peer_review.html) to ensure that the process is reproducible and that the below requirements have been met.
 - **Minimise manual steps**, for example copy-paste, point-click or drag-drop steps. Where it is absolutely necessary to include a manual step in the process this must be documented as described below. 
 - Be built using **open source software** which is available to anyone, preferably R or python.
-- Guarantee an **audit trail** using version control software, preferably Git.
-- Be **open to anyone**. This can be facilitated most easily through the use of file and code sharing platforms.
+- Guarantee an **audit trail** using [version control software](https://best-practice-and-impact.github.io/qa-of-code-guidance/version_control.html#why-do-we-need-version-control), preferably Git.
+- Be [**open to anyone**](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html#open-source-your-code-span-role-image-aria-label-difficulty-rating-2-out-of-5-span). This can be facilitated most easily through the use of file and code sharing platforms.
 - Follow **existing good practice for quality assurance** - guidance set by departments or organisations, and by the Good Practice Team for the Government Statistical Service.
-- Contain **well-commented** code and have **documentation embedded** within the product, rather than saved elsewhere.
+- Contain [**well-commented**](https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html#comments-span-role-image-aria-label-difficulty-rating-1-out-of-5-span) code and have [**documentation embedded**](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html) within the product, rather than saved elsewhere.
 
 
 Notes:
