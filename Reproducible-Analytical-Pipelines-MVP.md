@@ -24,11 +24,11 @@ This guidance is for official statisticians and analysts working in the UK gover
 The guidance may also be helpful for users of official statistics or other government analysis.
 
 This guidance has been developed by the Reproducible Analytical Pipelines (RAP) team in the Methodology and Quality Directorate at the [Office for National Statistics](https://www.ons.gov.uk/aboutus).
-Methodology and Quality Directorate supports government analysis by providing guidance, consultancy and training. We do this on behalf of the [Analysis Function](https://www.gov.uk/government/organisations/government-analysis-function).
+Methodology and Quality Directorate supports government analysis by providing guidance, consultancy and training. We do this for the [Analysis Function](https://www.gov.uk/government/organisations/government-analysis-function).
 
 ### Lessons learned in software engineering can be translated to official statistics and analysis
 
-For producers, processes for analysis have often been constrained by inappropriate, proprietary software that makes them inefficient and quality assurance difficult.
+For producers, processes for analysis have often been made harder by inappropriate, proprietary software. This makes them inefficient and quality assurance difficult.
 This has caused frustration for producers and their managers as quality issues recur and analysis becomes resource-intensive.
 Developing bespoke software using some best practices from software engineering helps to alleviate this.
 
@@ -45,7 +45,7 @@ When analysts and researchers work in the open they increase transparency about 
 ## The RAP Minimum Viable Product
 
 In order to achieve these benefits, at a minimum a Reproducible Analytical Pipeline must:
-- Minimise manual steps, for example copy-paste, point-click or drag-drop operations. Where it is absolutely necessary to include a manual step in the process this must be fully documented as described below.
+- Minimise manual steps. Manual steps include copy and paste, point and click or drag and drop operations. Where it is absolutely necessary to include a manual step in the process this must be fully documented as described below.
 - Be built using open source software which is available to anyone, preferably [python](https://www.python.org/) or [R](https://www.r-project.org/)
 - Deepen technical and quality assurance processes with [peer review](https://best-practice-and-impact.github.io/qa-of-code-guidance/peer_review.html) to ensure that the process is reproducible and that the below requirements have been met
 - Guarantee an audit trail using [version control software](https://best-practice-and-impact.github.io/qa-of-code-guidance/version_control.html#why-do-we-need-version-control), preferably Git
