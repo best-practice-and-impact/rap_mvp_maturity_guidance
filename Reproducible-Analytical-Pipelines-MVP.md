@@ -3,7 +3,7 @@
 ## Things to be aware of
 
 This guidance has been agreed by a working group of the [Reproducible Analytical Pipelines Champions](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/).
-It will be reviewed periodically by the RAP Champions and the Analysis Standards and Pipelines data science team in Methods and Quality Directorate the Office for National Statistics.
+It will be reviewed periodically by the RAP Champions and the Reproducible Analytical Pipelines team in Methodology and Quality Directorate at the Office for National Statistics.
 
 Your department may have standards that you have to work to when you are writing code or developing analytical products.
 This guidance is a general set of advice and guidelines for any and all analytical pipelines.
@@ -13,7 +13,7 @@ Producers of analysis may incorporate some or all of these guidelines into their
 
 ### Reproducible analytical pipelines are a guarantee for users and producers
 
-In the future, analytical processes should be reproducible to a proportionate level.
+Analytical processes should be reproducible to a proportionate level.
 They must be backed up by a clear history of analytical decisions and implementation.
 Good quality assurance processes will help to identify errors or upstream changes more quickly.
 Working in the open, these reproducible analytical pipelines will guarantee to users and producers alike that the analysis is trustworthy, high-quality and efficient.
@@ -21,10 +21,10 @@ Working in the open, these reproducible analytical pipelines will guarantee to u
 ### Who is this guidance for?
 
 This guidance is for official statisticians and analysts working in the UK government.
-This guidance may also be helpful for users of official statistics or other government analysis.
+The guidance may also be helpful for users of official statistics or other government analysis.
 
-This guidance has been developed by the Analysis Standards and Pipelines team in the Quality and Improvement Division at the Office for National Statistics.
-Quality and Improvement division supports government analysis by providing guidance, consultancy and training.
+This guidance has been developed by the Reproducible Analytical Pipelines (RAP) team in the Methodology and Quality Directorate at the [Office for National Statistics](https://www.ons.gov.uk/aboutus).
+Methodology and Quality Directorate supports government analysis by providing guidance, consultancy and training. We do this on behalf of the [Analysis Function](https://www.gov.uk/government/organisations/government-analysis-function).
 
 ### Lessons learned in software engineering can be translated to official statistics and analysis
 
