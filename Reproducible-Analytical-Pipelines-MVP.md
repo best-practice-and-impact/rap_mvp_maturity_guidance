@@ -55,7 +55,7 @@ In order to achieve these benefits, at a minimum a Reproducible Analytical Pipel
 
 
 Notes:
-- Sometimes restrictions like access to databases stop analysis producers building a RAP for their full end-to-end process. In this case, the above requirements apply to the part of the process where a RAP can be built
+- Sometimes analysis producers cannot build a RAP for their full end-to-end process because of restrictions like access to databases. In this case, the above requirements apply to the part of the process where a RAP can be built
 - Analysis producers may be unable to share their RAP publicly because of sensitive or confidential content. In this case, it may be possible to share the RAP within a department or organisation instead. Think about using synthetic data to make wider sharing possible
 - We recommend that when possible a RAP should be built collaboratively - this will improve the quality of the final product and helps to facilitate knowledge sharing
 - There is not a specific tool that is required to build a RAP. Both python and R provide the power and flexibility to carry out end-to-end analytical processes, from data source to final presentation
