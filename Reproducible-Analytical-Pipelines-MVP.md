@@ -3,7 +3,7 @@
 ## Things to be aware of
 
 This guidance has been agreed by a working group of the [Reproducible Analytical Pipelines Champions](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/).
-It will be reviewed periodically by the RAP Champions and the Reproducible Analytical Pipelines team in Methodology and Quality Directorate at the Office for National Statistics.
+It will be reviewed periodically by the RAP Champions and the Reproducible Analytical Pipelines team in Methodology and Quality Directorate at the [Office for National Statistics](https://www.ons.gov.uk/aboutus).
 
 Your department may have standards that you have to work to when you are writing code or developing analytical products.
 This guidance is a general set of advice and guidelines for any and all analytical pipelines.
