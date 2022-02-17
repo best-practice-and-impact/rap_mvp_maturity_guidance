@@ -28,7 +28,7 @@ Methodology and Quality Directorate supports government analysis by providing gu
 
 ### Lessons learned in software engineering can be translated to official statistics and analysis
 
-For producers, processes for analysis have often been made harder by inappropriate, proprietary software. This makes them inefficient and quality assurance difficult.
+For producers of analysis, processes have often been made harder by inappropriate, proprietary software. This makes them inefficient and difficult to quality assure.
 This has caused frustration for producers and their managers as quality issues recur and analysis becomes resource-intensive.
 Developing bespoke software using some best practices from software engineering helps to alleviate this.
 
